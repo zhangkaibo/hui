@@ -1,0 +1,55 @@
+{
+	"startBanner.html": {
+		"resources": [
+			"img/startBanner2.png",
+			"img/startBanner1.png",
+			"js/huiSlide.js",
+			"img/startBanner3.png",
+			"img/startBanner4.png"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"css/hui.css",
+			"css/fonts/iconfont.woff",
+			"js/hui.js",
+			"img/logo.png",
+			"img/logoSmall.png"
+		],
+		"refer": [
+			"startBanner.html",
+			"imgcut.html",
+			"indexList.html",
+			"picker.html",
+			"select.html"
+		]
+	},
+	"imgcut.html": {
+		"resources": [
+			"css/hui.css",
+			"css/fonts/iconfont.woff",
+			"js/hui.js",
+			"js/huiImgCuter.js"
+		]
+	},
+	"indexList.html": {
+		"resources": [
+			"css/hui.css",
+			"js/hui.js"
+		]
+	},
+	"picker.html": {
+		"resources": [
+			"css/hui.css",
+			"js/hui.js",
+			"js/cities.js",
+			"js/huiPicker.js"
+		]
+	},
+	"select.html": {
+		"resources": [
+			"css/hui.css",
+			"js/hui.js"
+		]
+	}
+}
